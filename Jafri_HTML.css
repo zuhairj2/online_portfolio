@@ -3,15 +3,16 @@ li {
 }
 
 li a {
-    display: block;
+    display: circle;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 16px 20px;
     text-decoration: none;
+    font-family: sans-serif
 }
 
 ul a:hover {
-    background-color: #111;
+    background-color: #222;
 }
 
 body {
